@@ -23,7 +23,7 @@
 #### The board has been designed and ready for fabricating.
 ![](Images/Board1.png)
 ![](Images/Board2.png)
-#### Finish fabricating and here the result. Wait for assemble.
+#### Finish fabricating and here is the result. Wait for assembling.
 ![](Images/realBoard1.jpg)
 
 ## 2. **LINUX**
